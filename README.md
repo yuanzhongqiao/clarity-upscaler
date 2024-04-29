@@ -1,69 +1,98 @@
-<div align="center">
-
-<h1> Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative </h1>
-
-[![Website](https://img.shields.io/badge/Website-ClarityAI.cc-blueviolet)](https://ClarityAI.cc) [![Twitter Follow](https://img.shields.io/twitter/follow/philz1337x?style=social)](https://twitter.com/philz1337x)
-
-[![Replicate](https://img.shields.io/badge/Demo-Replicate-purple)](https://replicate.com/philz1337x/clarity-upscaler)
-![GitHub stars](https://img.shields.io/github/stars/philz1337x/clarity-upscaler?style=social&label=Star)
-
-![Example video](example.gif)
-
-<strong>Full Video:
-https://x.com/philz1337x/status/1768679154726359128?s=20.</strong>
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">清晰度人工智能 | AI 图像升级器和增强器 - 免费开源的 Magnific Alternative</font></font></h1><a id="user-content--clarity-ai--ai-image-upscaler--enhancer---free-and-open-source-magnific-alternative-" class="anchor" aria-label="永久链接：Clarity AI | AI 图像升级器和增强器 - 免费开源的 Magnific Alternative" href="#-clarity-ai--ai-image-upscaler--enhancer---free-and-open-source-magnific-alternative-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://ClarityAI.cc" rel="nofollow"><img src="https://camo.githubusercontent.com/560ab5074f032d97fdde7e4d0e9872644f84de6db764d323c1932a76c2e9543e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d436c617269747941492e63632d626c756576696f6c6574" alt="网站" data-canonical-src="https://img.shields.io/badge/Website-ClarityAI.cc-blueviolet" style="max-width: 100%;"></a> <a href="https://twitter.com/philz1337x" rel="nofollow"><img src="https://camo.githubusercontent.com/adcdf919d407d7f2d5d5b263c2cc4e5b0e43576e15ef8aee71723451e9af30b9/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f7068696c7a31333337783f7374796c653d736f6369616c" alt="推特关注" data-canonical-src="https://img.shields.io/twitter/follow/philz1337x?style=social" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://replicate.com/philz1337x/clarity-upscaler" rel="nofollow"><img src="https://camo.githubusercontent.com/2d3e8f56dbb5d6cee46d5a5313ae7e8eb5bf32f697092aece223c58729a44de9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44656d6f2d5265706c69636174652d707572706c65" alt="复制" data-canonical-src="https://img.shields.io/badge/Demo-Replicate-purple" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2654798eaeafa2c63e5a639371321794fff117d283c833e3be003d8b28d44c90/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7068696c7a31333337782f636c61726974792d75707363616c65723f7374796c653d736f6369616c266c6162656c3d53746172"><img src="https://camo.githubusercontent.com/2654798eaeafa2c63e5a639371321794fff117d283c833e3be003d8b28d44c90/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7068696c7a31333337782f636c61726974792d75707363616c65723f7374796c653d736f6369616c266c6162656c3d53746172" alt="GitHub 星星" data-canonical-src="https://img.shields.io/github/stars/philz1337x/clarity-upscaler?style=social&amp;label=Star" style="max-width: 100%;"></a></p>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/philz1337x/clarity-upscaler/blob/main/example.gif" data-target="animated-image.originalLink" hidden=""><img src="/philz1337x/clarity-upscaler/raw/main/example.gif" alt="Example video" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/philz1337x/clarity-upscaler/blob/main/example.gif" target="_blank">
+          <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Example video" class="AnimatedImagePlayer-animatedImage" src="https://github.com/philz1337x/clarity-upscaler/raw/main/example.gif">
+          </span>
+        </a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1"></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open in new window" class="AnimatedImagePlayer-button" href="https://github.com/philz1337x/clarity-upscaler/blob/main/example.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整视频：
+ </font></font><a href="https://x.com/philz1337x/status/1768679154726359128?s=20" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1768679154726359128</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ?s =20。</font></font></strong></p>
 </div>
-
-# 👋 Hello
-
-I build open source AI apps. To finance my work i also build paid versions of my code. But feel free to use the free code. I post features and new projects on https://twitter.com/philz1337x
-
-# 🗞️ Updates
-
-- 04/12/2024: Multi-step upscaling ()
-- 04/07/2024: Resemblance fixed (https://x.com/levelsio/status/1776729356120797265)
-- 04/05/2024: Speed Improvements (https://x.com/philz1337x/status/1776121175195975888)
-- 04/01/2024: Support custom safetensors checkpoints (https://x.com/philz1337x/status/1774772572632338435)
-- 03/28/2024: Anime upscaling (https://x.com/philz1337x/status/1773342568543346738)
-- 03/26/2024: LoRa Support (https://x.com/philz1337x/status/1772575319871959180)
-- 03/21/2024: Pre downscaling (https://x.com/philz1337x/status/1770680096031961351)
-- 03/18/2024: Fractality (https://x.com/philz1337x/status/1769756654533485050)
-- 03/15/2024: Code release (https://x.com/philz1337x/status/1768679154726359128)
-
-# 🚀 Options to use Clarity-Upscaler
-
-## User friendly Website
-
-If you are not fimilar with cog, a1111 and dont't want to use Replicate, you can use my paid version at [ClarityAI.cc](https://ClarityAI.cc)
-
-## Deploy and run with cog (locally or cloud)
-
-If you are not familiar with cog read: <a href=https://github.com/replicate/cog/blob/main/docs/getting-started-own-model.md>cog docs</a>
-
-- Download Checkpoints and LoRa's from Cvitai and put in /models folder (a download_weights.py file to prepare everything with one file is a work in progress)
-
-```
-https://civitai.com/models/46422/juggernaut
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋你好</font></font></h1><a id="user-content--hello" class="anchor" aria-label="永久链接：👋你好" href="#-hello"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我构建开源人工智能应用程序。为了资助我的工作，我还构建了我的代码的付费版本。但请随意使用免费代码。我在</font></font><a href="https://twitter.com/philz1337x" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://twitter.com/philz1337x上发布功能和新项目</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗞️更新</font></font></h1><a id="user-content-️-updates" class="anchor" aria-label="永久链接：🗞️更新" href="#️-updates"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">04/12/2024：多步升级 ()</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">04/07/2024：相似性已修复（</font></font><a href="https://x.com/levelsio/status/1776729356120797265" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/levelsio/status/1776729356120797265</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2024 年 4 月 5 日：速度改进 ( </font></font><a href="https://x.com/philz1337x/status/1776121175195975888" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1776121175195975888</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">04/01/2024：支持自定义安全张量检查点（</font></font><a href="https://x.com/philz1337x/status/1774772572632338435" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1774772572632338435</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">03/28/2024：动漫升级（</font></font><a href="https://x.com/philz1337x/status/1773342568543346738" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1773342568543346738</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2024 年 3 月 26 日：LoRa 支持 ( </font></font><a href="https://x.com/philz1337x/status/1772575319871959180" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1772575319871959180</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">03/21/2024：预缩小（</font></font><a href="https://x.com/philz1337x/status/1770680096031961351" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1770680096031961351</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">03/18/2024：分形（</font></font><a href="https://x.com/philz1337x/status/1769756654533485050" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1769756654533485050</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2024 年 3 月 15 日：代码发布 ( </font></font><a href="https://x.com/philz1337x/status/1768679154726359128" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://x.com/philz1337x/status/1768679154726359128</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 使用 Clarity-Upscaler 的选项</font></font></h1><a id="user-content--options-to-use-clarity-upscaler" class="anchor" aria-label="永久链接：🚀 使用 Clarity-Upscaler 的选项" href="#-options-to-use-clarity-upscaler"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户友好的网站</font></font></h2><a id="user-content-user-friendly-website" class="anchor" aria-label="永久链接：用户友好的网站" href="#user-friendly-website"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不熟悉 cog、a1111 并且不想使用 Replicate，您可以使用我在</font></font><a href="https://ClarityAI.cc" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ClarityAI.cc上的付费版本</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 cog 部署和运行（本地或云）</font></font></h2><a id="user-content-deploy-and-run-with-cog-locally-or-cloud" class="anchor" aria-label="永久链接：使用 cog 部署和运行（本地或云）" href="#deploy-and-run-with-cog-locally-or-cloud"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不熟悉 cog，请阅读：</font></font><a href="https://github.com/replicate/cog/blob/main/docs/getting-started-own-model.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cog 文档</font></font></a></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 Cvitai 下载 Checkpoints 和 LoRa 并放入 /models 文件夹中（使用一个文件准备所有内容的 download_weights.py 文件是一项正在进行的工作）</font></font></li>
+</ul>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>https://civitai.com/models/46422/juggernaut
 https://civitai.com/models/82098?modelVersionId=87153
 https://civitai.com/models/171159?modelVersionId=236130
-```
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="https://civitai.com/models/46422/juggernaut
+https://civitai.com/models/82098?modelVersionId=87153
+https://civitai.com/models/171159?modelVersionId=236130" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用 cog 预测：</font></font></li>
+</ul>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="su" class="notranslate"><code>cog predict -i image="link-to-image"
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cog predict -i image=&quot;link-to-image&quot;" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 A1111 webUI 运行</font></font></h2><a id="user-content-run-with-a1111-webui" class="anchor" aria-label="永久链接：使用 A1111 webUI 运行" href="#run-with-a1111-webui"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/AUTOMATIC1111/stable-diffusion-webui</font></font></a></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用这些参数：</font></font></li>
+</ul>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="Prompt:" class="notranslate"><code>masterpiece, best quality, highres, &lt;lora:more_details:0.5&gt; &lt;lora:SDXLrender_v2.0:1&gt; Negative prompt: (worst quality, low quality, normal quality:2) JuggernautNegative-neg Steps: 18, Sampler: DPM++ 3M SDE Karras, CFG scale: 6.0, Seed: 1337, Size: 1024x1024, Model hash: 338b85bc4f, Model: juggernaut_reborn, Denoising strength: 0.35, Tiled Diffusion upscaler: 4x-UltraSharp, Tiled Diffusion scale factor: 2, Tiled Diffusion: {"Method": "MultiDiffusion", "Tile tile width": 112, "Tile tile height": 144, "Tile Overlap": 4, "Tile batch size": 8, "Upscaler": "4x-UltraSharp", "Upscale factor": 2, "Keep input size": true}, ControlNet 0: "Module: tile_resample, Model: control_v11f1e_sd15_tile, Weight: 0.6, Resize Mode: 1, Low Vram: False, Processor Res: 512, Threshold A: 1, Threshold B: 1, Guidance Start: 0.0, Guidance End: 1.0, Pixel Perfect: True, Control Mode: 1, Hr Option: HiResFixOption.BOTH, Save Detected Map: False", Lora hashes: "more_details: 3b8aa1d351ef, SDXLrender_v2.0: 3925cf4759af"
+</code></pre><div class="zeroclipboard-container">
 
-- predict with cog:
-
-```su
-cog predict -i image="link-to-image"
-```
-
-## Run with A1111 webUI
-
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
-
-- Use these params:
-
-```Prompt:
-masterpiece, best quality, highres, <lora:more_details:0.5> <lora:SDXLrender_v2.0:1> Negative prompt: (worst quality, low quality, normal quality:2) JuggernautNegative-neg Steps: 18, Sampler: DPM++ 3M SDE Karras, CFG scale: 6.0, Seed: 1337, Size: 1024x1024, Model hash: 338b85bc4f, Model: juggernaut_reborn, Denoising strength: 0.35, Tiled Diffusion upscaler: 4x-UltraSharp, Tiled Diffusion scale factor: 2, Tiled Diffusion: {"Method": "MultiDiffusion", "Tile tile width": 112, "Tile tile height": 144, "Tile Overlap": 4, "Tile batch size": 8, "Upscaler": "4x-UltraSharp", "Upscale factor": 2, "Keep input size": true}, ControlNet 0: "Module: tile_resample, Model: control_v11f1e_sd15_tile, Weight: 0.6, Resize Mode: 1, Low Vram: False, Processor Res: 512, Threshold A: 1, Threshold B: 1, Guidance Start: 0.0, Guidance End: 1.0, Pixel Perfect: True, Control Mode: 1, Hr Option: HiResFixOption.BOTH, Save Detected Map: False", Lora hashes: "more_details: 3b8aa1d351ef, SDXLrender_v2.0: 3925cf4759af"
-```
-
-## Replicate API for app integration
-
-- go to https://replicate.com/philz1337x/clarity-upscaler/api
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制 API 以进行应用程序集成</font></font></h2><a id="user-content-replicate-api-for-app-integration" class="anchor" aria-label="永久链接：复制用于应用程序集成的 API" href="#replicate-api-for-app-integration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">转到</font></font><a href="https://replicate.com/philz1337x/clarity-upscaler/api" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://replicate.com/philz1337x/clarity-upscaler/api</font></font></a></li>
+</ul>
+</article></div>
